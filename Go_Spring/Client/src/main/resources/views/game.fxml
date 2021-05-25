@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<?import javafx.scene.control.Label?>
+<BorderPane xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="gogame.client.gui.ControllerGO">
+   <top>
+      <VBox alignment="CENTER"  BorderPane.alignment="CENTER">
+          <HBox styleClass="gameControls">
+              <Button onAction="#passClicked" text="PASS" />
+              <Button fx:id="btnNewGame" text="+" />
+              <Label fx:id="label" text="Waiting to start"/>
+          </HBox>
+      </VBox>
+   </top>
+</BorderPane>

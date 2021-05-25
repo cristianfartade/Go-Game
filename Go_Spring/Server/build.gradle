@@ -1,0 +1,17 @@
+plugins {
+    id 'java'
+}
+
+group 'GoGame'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group:'junit', name:'junit', version:'4.12'
+
+    compile project(':Model')
+    compile project(':Services')
+}
+

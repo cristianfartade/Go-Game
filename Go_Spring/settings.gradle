@@ -1,0 +1,6 @@
+rootProject.name = 'GO_Spring'
+include 'Client'
+include 'Server'
+include 'Model'
+include 'Services'
+

@@ -1,0 +1,12 @@
+gogame/client/gui/ControllerGO.java
+ gogame.client.gui.ControllerGO
+ gogame.client.gui.ControllerGO$1
+ gogame.client.gui.ControllerGO$2
+ gogame.client.gui.ControllerGO$3
+ gogame.client.gui.ControllerGO$4
+gogame/client/gui/ClientController.java
+ gogame.client.gui.ClientController
+gogame/client/gui/ControllerFW.java
+ gogame.client.gui.ControllerFW
+gogame/client/StartClient.java
+ gogame.client.StartClient

@@ -1,0 +1,4 @@
+gogame/services/IObserver.java
+ gogame.services.IObserver
+gogame/services/IServices.java
+ gogame.services.IServices

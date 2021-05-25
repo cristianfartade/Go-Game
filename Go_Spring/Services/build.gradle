@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+}
+
+group 'GoGame'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile project(':Model')
+
+    compile 'org.springframework:spring-context:5.0.4.RELEASE'
+    testCompile group: 'junit', name:'junit', version:'4.12'
+}
+
