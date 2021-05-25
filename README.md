@@ -2,7 +2,6 @@
 Fartade Cristian - 2B1
 An implementation of the GO Game (work in progress)
 
-
 Client-Server implementation using Spring and JavaFX
 -The player that connected first gets the color black and will start by placing his stone
 -Each player places one stone and then it's the other player's turn
