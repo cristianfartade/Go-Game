@@ -1,4 +1,4 @@
-# Go-Game_ProiectPA
+# Go-Game
 Fartade Cristian - 2B1
 An implementation of the GO Game (work in progress)
 
